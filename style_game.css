@@ -1,0 +1,46 @@
+body{
+    background-image: url(background.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 200vh;
+    background-size: cover;
+}
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: gold;
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+}
+.btn{
+    background-color: goldenrod;
+    color: #016f32;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bolder;
+    border: 5px;
+    font-size: larger;
+    margin: 5px;
+}
+.btn:hover{
+    background-color: rgb(210, 180, 8);
+}
+#error{
+    color: rgb(213, 1, 1);
+    font-weight: bolder;
+    font-size: x-large;
+}
+#input{
+    border-radius: 5px;
+    background-color: goldenrod;
+    border: none;
+    padding: 10px;
+}
+#name{
+    font-weight: bolder;
+    font-size: xx-large;
+}
